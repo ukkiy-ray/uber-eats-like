@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 概要
+- このアプリケーションは、自分がReactの学習を進めるに当たって、今まで学習してきたRailsと組み合わせようと考えTECH PITを参考にデモンストレーションとして作成しました。
 
-Things you may want to cover:
+- サーバーサイドのAPIを Ruby on Rails、フロントエンドをReactで実装 開発したUber eats 風の料理注文シングルページアプリケーションです。
 
-* Ruby version
 
-* System dependencies
+# 挙動確認
 
-* Configuration
+[![Image from Gyazo](https://i.gyazo.com/14e92d31dcc250bd077861243c066437.gif)](https://gyazo.com/14e92d31dcc250bd077861243c066437)
 
-* Database creation
 
-* Database initialization
+### 異常系
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Image from Gyazo](https://i.gyazo.com/e1b8ee75565c22bfbaf7a4ee811a89f6.gif)](https://gyazo.com/e1b8ee75565c22bfbaf7a4ee811a89f6)
